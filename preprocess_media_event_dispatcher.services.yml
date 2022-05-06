@@ -1,0 +1,5 @@
+services:
+  preprocess_media_event_dispatcher.preprocess.factory.media:
+    class: \Drupal\preprocess_media_event_dispatcher\Event\Factory\MediaPreprocessEventFactory
+    tags:
+      - { name: preprocess_event_factory }
