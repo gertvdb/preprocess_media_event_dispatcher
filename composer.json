@@ -16,6 +16,7 @@
     }
   },
   "require": {
+    "php": ">=8.1",
     "drupal/hook_event_dispatcher": "^1.19"
   },
   "require-dev": {
