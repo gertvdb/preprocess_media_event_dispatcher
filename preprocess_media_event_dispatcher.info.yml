@@ -1,8 +1,7 @@
 name: Preprocess Media Event Dispatcher
 type: module
-description: Provide extra media proprecess events
-core: 8.x
-core_version_requirement: ^8 || ^9
+description: Provide extra media preprocess events
+core_version_requirement: ^9.1
 package: Hook events
 dependencies:
   - hook_event_dispatcher:hook_event_dispatcher
