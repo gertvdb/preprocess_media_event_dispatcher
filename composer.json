@@ -6,7 +6,7 @@
   "minimum-stability": "alpha",
   "autoload": {
     "psr-4": {
-      "Drupal\\hook_event_dispatcher\\": "src/"
+      "Drupal\\preprocess_media_event_dispatcher\\": "src/"
     }
   },
   "repositories": {
