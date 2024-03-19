@@ -17,7 +17,7 @@
   },
   "require": {
     "php": ">=8.1",
-    "drupal/hook_event_dispatcher": "^3.3"
+    "drupal/hook_event_dispatcher": "^4.0"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest"
